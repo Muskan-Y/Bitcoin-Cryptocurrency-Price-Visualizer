@@ -11,7 +11,11 @@ Understand complex data through visual charts and graphs.
 
 
 *Hash function 
+
 *Decentralization
+
 *Distributed Ledger
+
 *Immutable transactions
+
 *Timestamping
