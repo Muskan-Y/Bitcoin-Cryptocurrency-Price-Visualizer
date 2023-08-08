@@ -10,4 +10,8 @@ Track Bitcoin's price on the go with a responsive and user-friendly interface.
 Understand complex data through visual charts and graphs.
 
 
-
+*Hash function 
+*Decentralization
+*Distributed Ledger
+*Immutable transactions
+*Timestamping
