@@ -10,12 +10,12 @@ Track Bitcoin's price on the go with a responsive and user-friendly interface.
 Understand complex data through visual charts and graphs.
 
 
-*Hash function 
+1. Hash function 
 
-*Decentralization
+2. Decentralization
 
-*Distributed Ledger
+3. Distributed Ledger
 
-*Immutable transactions
+4. Immutable transactions
 
-*Timestamping
+5. Timestamping
